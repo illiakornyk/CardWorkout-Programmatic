@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E04929662B6E4268001A769F /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04929652B6E4268001A769F /* RulesVC.swift */; };
+		E0E043612BA9F507000F9170 /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E043602BA9F507000F9170 /* CardDeck.swift */; };
 		E0F47E652B62D5D000A96AE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F47E642B62D5D000A96AE9 /* AppDelegate.swift */; };
 		E0F47E672B62D5D000A96AE9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F47E662B62D5D000A96AE9 /* SceneDelegate.swift */; };
 		E0F47E6E2B62D5D300A96AE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0F47E6D2B62D5D300A96AE9 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		E04929652B6E4268001A769F /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
+		E0E043602BA9F507000F9170 /* CardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 		E0F47E612B62D5D000A96AE9 /* CardWorkout-Programmatic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CardWorkout-Programmatic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0F47E642B62D5D000A96AE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0F47E662B62D5D000A96AE9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				E0F47E7B2B62D73F00A96AE9 /* CardSelectionVC.swift */,
 				E0F47E7F2B62DAA200A96AE9 /* CWButton.swift */,
 				E04929652B6E4268001A769F /* RulesVC.swift */,
+				E0E043602BA9F507000F9170 /* CardDeck.swift */,
 				E0F47E6D2B62D5D300A96AE9 /* Assets.xcassets */,
 				E0F47E6F2B62D5D300A96AE9 /* LaunchScreen.storyboard */,
 				E0F47E722B62D5D300A96AE9 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0E043612BA9F507000F9170 /* CardDeck.swift in Sources */,
 				E0F47E652B62D5D000A96AE9 /* AppDelegate.swift in Sources */,
 				E04929662B6E4268001A769F /* RulesVC.swift in Sources */,
 				E0F47E672B62D5D000A96AE9 /* SceneDelegate.swift in Sources */,
